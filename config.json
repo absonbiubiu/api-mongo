@@ -1,0 +1,6 @@
+{
+    "port": 7077,
+    "mongoose": {
+        "uri": "mongodb://localhost/mydb"
+    }
+}
